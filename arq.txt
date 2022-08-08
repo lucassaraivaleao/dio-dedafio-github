@@ -1,1 +1,3 @@
 arquivo criado para testagem do push
+
+>>Edição para teste de pull na máquina<<
